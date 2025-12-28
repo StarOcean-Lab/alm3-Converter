@@ -8,6 +8,12 @@
 
 转换 `.alm3` 格式的加密音频文件，输出为 MP3 格式。
 
+### 下载
+
+👉 [_Releases_](https://github.com/StarOcean-Lab/alm3-Converter/releases/latest)
+
+下载 `ALM3Decoder.exe` 后可直接运行，无需安装 Python 环境。
+
 ### 使用方法
 
 ```bash
@@ -40,6 +46,12 @@ python alm3_decoder.py ./my_music_folder/
 ## English
 
 Convert `.alm3` encrypted audio files to MP3 format.
+
+### Download
+
+👉 [_Releases_](https://github.com/StarOcean-Lab/alm3-Converter/releases/latest)
+
+Download `alm3_decoder.exe` and run directly - no Python installation required.
 
 ### Usage
 
