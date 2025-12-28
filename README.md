@@ -14,7 +14,7 @@
 
 下载 `ALM3Decoder.exe` 后可直接运行，无需安装 Python 环境。
 
-### 使用方法
+### 源码使用方法
 
 ```bash
 # 转换单个文件
@@ -53,7 +53,7 @@ Convert `.alm3` encrypted audio files to MP3 format.
 
 Download `alm3_decoder.exe` and run directly - no Python installation required.
 
-### Usage
+### Source code Usage
 
 ```bash
 # Convert a single file
